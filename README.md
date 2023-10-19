@@ -1,2 +1,3 @@
 # hello_world
-firstAPP
+firstAPP 
+Ova app radi svasta    
